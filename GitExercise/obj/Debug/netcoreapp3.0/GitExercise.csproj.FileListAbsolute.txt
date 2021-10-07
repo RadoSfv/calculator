@@ -1,0 +1,4 @@
+C:\Users\Student\Documents\calculator\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\calculator\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\calculator\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\Student\Documents\calculator\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
